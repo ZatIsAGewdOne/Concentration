@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  Concentration.swift
 //  Concentration
 //
 //  Created by Edvardas Malinauskas on 7/11/19.
